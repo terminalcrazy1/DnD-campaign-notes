@@ -4,25 +4,7 @@
   width: 100%;
 }
 
-.navbar home {
-  float: left;
-  display: block;
-  color: #1e272c;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.navbar dir {
-  float: left;
-  display: block;
-  color: #1e272c;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.navbar down {
+.navbar navbox {
   float: left;
   display: block;
   color: #1e272c;
