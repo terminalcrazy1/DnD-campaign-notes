@@ -21,7 +21,6 @@ italic{
 }
 <!--Tinos Heading Formatting-->
 h1{
-    position: flex;
     font-family: "Tinos", serif;
     font-weight: 700;
     font-style: normal;
@@ -59,6 +58,9 @@ h6{
 }
 
 nav{
+    display: flex;
+    align-items: center;
+    justify-content: start;
     position: fixed;
     text-align: center;
     top: 0;
