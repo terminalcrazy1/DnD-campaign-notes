@@ -1,75 +1,14 @@
-<!--Roboto Text Formatting-->
-body {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 14.67px;
-}
-bold {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 14.67px;
-}
-italic {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 14.67px;
-}
-<!--Tinos Heading Formatting-->
-h1 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 50px;
-}
-h2 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 22.67px;
-}
-h3 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 18.67px;
-}
-h4 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 16px;
-}
-h5 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 14.67px;
-}
-h6 {
-    font-family: "Tinos", serif;
-    font-weight: 700;
-    font-style: italic;
-    font-size: 14.67px;
-}
-
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.navbar navbox {
-  float: left;
-  display: block;
-  color: #1e272c;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.main {
-  margin-top: 32px;
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    background-color: mediumaquamarine;
+  }
+navline {
+    position: fixed;
+    top: 30px;
+    width: 100%;
+    height: 6px;
+    background-color: firebrick;
 }
