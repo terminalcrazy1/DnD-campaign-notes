@@ -1,18 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Tinos:wght@700&display=swap');
 <!--Roboto Body Formatting-->
 p, body {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14.67px;
 }
 bold {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 14.67px;
 }
 italic {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 14.67px;
