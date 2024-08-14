@@ -4,6 +4,7 @@ nav {
     width: 100%;
     height: 30px;
     background-color: mediumaquamarine;
+    z-index: 1;
   }
 navline {
     position: fixed;
@@ -11,4 +12,17 @@ navline {
     width: 100%;
     height: 6px;
     background-color: firebrick;
+    z-index: 1;
 }
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    padding: 10px;
+  }
